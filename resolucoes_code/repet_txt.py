@@ -1,1 +1,1 @@
-# Vamos solicitar como entrada dois números e depois vamos realizar uma operação simples entre eles.
+# Vamos solicitar como entrada uma string e um inteiro e depois vamos retornar a string repetida o número de vezes informado.
